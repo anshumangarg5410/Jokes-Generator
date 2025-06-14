@@ -1,6 +1,4 @@
 import { useCallback, useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 //quote ki api nhi mile toh quote ko joke bna diya : - )
