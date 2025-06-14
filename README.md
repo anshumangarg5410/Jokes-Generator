@@ -4,6 +4,8 @@ A fun and dynamic **Chuck Norris Joke Generator** built with **React**, **Tailwi
 
 <!-- ![Joke Generator Preview](./preview.png) -->
 
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## 🚀 Live Demo
 Check out the deployed site on GitHub Pages:  
 👉 [Jokes Generator](https://anshumangarg5410.github.io/Jokes-Generator/)
